@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pass_match25</string>
+    <string name="label_password"></string>
+    <string name="submit_password">Submit</string>
+    <string name="input_password">Input Password</string>
+    <string name="input_password_again">Input Password Again</string>
+</resources>
